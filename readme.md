@@ -1,4 +1,4 @@
-# Prosody‑Assisted Device for Student Engagement Monitoring
+# Prosidy Based Student Engagement Monitoring(PBSEM):
 
 Detect the overall state of a student (normal, excited, bored) from a speech clip using prosodic features (pitch, intensity, jitter, shimmer, etc.) and a machine‑learning model.
 
@@ -79,6 +79,8 @@ Then open your browser at:
 
 http://127.0.0.1:5000
 
+Sample Output
+![Sample Output](/images/output.jpg)
 
 Steps in the UI:
 
@@ -245,3 +247,11 @@ Now, all predictions come from **your** model trained on the latest dataset.
 - **Dataset:** RAVDESS – Ryerson Audio‑Visual Database of Emotional Speech and Song.
 - **Feature extraction:** Praat (via Parselmouth) and openSMILE.
 - **Web & ML stack:** Flask, scikit‑learn, numpy, pandas, etc.
+
+## 8. Authors
+ - **Suvash Sharma Subedi** (22BCP116)
+ - **Satyam Mishra** (22BCP044)
+
+Final year B.Tech CSE students in PDEU, Gujarat India.
+
+Submitted to Dr. Tanmay Bhowmik as a Minor Project Report under the title: `Prosody-assisted device to monitor student engagement in smart classroom environment`
