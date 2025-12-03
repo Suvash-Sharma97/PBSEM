@@ -1,4 +1,4 @@
-# Prosidy Based Student Engagement Monitoring(PBSEM):
+# Prosody Based Student Engagement Monitoring(PBSEM):
 
 Detect the overall state of a student (normal, excited, bored) from a speech clip using prosodic features (pitch, intensity, jitter, shimmer, etc.) and a machine‑learning model.
 
